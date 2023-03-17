@@ -1,1 +1,1 @@
-!gif(practice.gif)
+![gif](practice.gif)
